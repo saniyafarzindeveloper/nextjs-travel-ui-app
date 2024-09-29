@@ -6,6 +6,8 @@ export const NAV_LINKS = [
     { href: '/', key: 'pricing ', label: 'Pricing ' },
     { href: '/', key: 'contact_us', label: 'Contact Us' },
   ];
+
+  //silly edits
   
   // CAMP SECTION
   export const PEOPLE_URL = [
